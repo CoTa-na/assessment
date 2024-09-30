@@ -45,22 +45,22 @@ assessmentButton.onclick = () => {
 };
 
 const answers = [
-    '{userName}の診断結果⇒あああ',
-    '{userName}の診断結果⇒いいい',
-    '{userName}の診断結果⇒ううう',
-    '{userName}の診断結果⇒えええ',
-    '{userName}の診断結果⇒おおお',
-    '{userName}の診断結果⇒かかか',
-    '{userName}の診断結果⇒ききき',
-    '{userName}の診断結果⇒くくく',
-    '{userName}の診断結果⇒けけけ',
-    '{userName}の診断結果⇒こここ',
-    '{userName}の診断結果⇒さささ',
-    '{userName}の診断結果⇒ししし',
-    '{userName}の診断結果⇒すすす',
-    '{userName}の診断結果⇒せせせ',
-    '{userName}の診断結果⇒そそそ',
-    '{userName}の診断結果⇒たたた',
+    '{userName}のいいところは声です！',
+    '{userName}のいいところはまなざしです！',
+    '{userName}のいいところは情熱です！',
+    '{userName}のいいところは厳しさです',
+    '{userName}のいいところは知識です',
+    '{userName}のいいところは見た目です',
+    '{userName}のいいところは用心深さです',
+    '{userName}のいいところはユニークさです',
+    '{userName}のいいところは決断力です',
+    '{userName}のいいところは思いやりです',
+    '{userName}のいいところは感受性です',
+    '{userName}のいいところは節度です',
+    '{userName}のいいところは好奇心です',
+    '{userName}のいいところは気配りです',
+    '{userName}のいいところは自制心です',
+    '{userName}のいいところは｡｡｡すみません。プログラムの誤作動です。いいところが見つかりません。',
 ];
 
 /**
